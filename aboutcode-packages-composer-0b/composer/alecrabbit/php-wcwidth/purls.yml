@@ -1,0 +1,4 @@
+- pkg:composer/alecrabbit/php-wcwidth@1.0.0
+- pkg:composer/alecrabbit/php-wcwidth@1.0.0-BETA.2
+- pkg:composer/alecrabbit/php-wcwidth@0.1.0
+- pkg:composer/alecrabbit/php-wcwidth@0.0.8
