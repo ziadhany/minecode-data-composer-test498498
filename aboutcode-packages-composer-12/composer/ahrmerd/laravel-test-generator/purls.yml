@@ -1,0 +1,3 @@
+- pkg:composer/ahrmerd/laravel-test-generator@2.0
+- pkg:composer/ahrmerd/laravel-test-generator@1.1
+- pkg:composer/ahrmerd/laravel-test-generator@1.0.0
