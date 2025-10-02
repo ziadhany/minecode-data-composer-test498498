@@ -1,0 +1,3 @@
+- pkg:composer/alpineio/rocinante@1.0.1-alpha
+- pkg:composer/alpineio/rocinante@1.0.0-alpha
+- pkg:composer/alpineio/rocinante@v0.1.0
