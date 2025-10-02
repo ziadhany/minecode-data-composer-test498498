@@ -1,0 +1,3 @@
+- pkg:composer/almostanything/dependency-graph@v1.0.0
+- pkg:composer/almostanything/dependency-graph@v0.1.0-beta2
+- pkg:composer/almostanything/dependency-graph@v0.1.0-beta
