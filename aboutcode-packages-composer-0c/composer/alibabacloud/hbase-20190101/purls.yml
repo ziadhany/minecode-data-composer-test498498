@@ -1,0 +1,8 @@
+- pkg:composer/alibabacloud/hbase-20190101@2.10.3
+- pkg:composer/alibabacloud/hbase-20190101@2.10.2
+- pkg:composer/alibabacloud/hbase-20190101@2.10.1
+- pkg:composer/alibabacloud/hbase-20190101@2.10.0
+- pkg:composer/alibabacloud/hbase-20190101@2.9.11
+- pkg:composer/alibabacloud/hbase-20190101@2.9.10
+- pkg:composer/alibabacloud/hbase-20190101@1.0.1
+- pkg:composer/alibabacloud/hbase-20190101@1.0.0
