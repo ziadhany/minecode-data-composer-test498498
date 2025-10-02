@@ -1,0 +1,14 @@
+- pkg:composer/aerospike/aerospike-client-php@7.5.2
+- pkg:composer/aerospike/aerospike-client-php@7.4.2
+- pkg:composer/aerospike/aerospike-client-php@7.4.1
+- pkg:composer/aerospike/aerospike-client-php@7.4.0
+- pkg:composer/aerospike/aerospike-client-php@7.3.0
+- pkg:composer/aerospike/aerospike-client-php@7.2.0
+- pkg:composer/aerospike/aerospike-client-php@7.1.2
+- pkg:composer/aerospike/aerospike-client-php@7.1.1
+- pkg:composer/aerospike/aerospike-client-php@7.1.0
+- pkg:composer/aerospike/aerospike-client-php@7.0.4
+- pkg:composer/aerospike/aerospike-client-php@7.0.3
+- pkg:composer/aerospike/aerospike-client-php@7.0.2
+- pkg:composer/aerospike/aerospike-client-php@7.0.1
+- pkg:composer/aerospike/aerospike-client-php@7.0.0
