@@ -1,0 +1,4 @@
+- pkg:composer/alxdorosenco/curl-php@v8.2.1
+- pkg:composer/alxdorosenco/curl-php@v8.2.0
+- pkg:composer/alxdorosenco/curl-php@v8.0.0
+- pkg:composer/alxdorosenco/curl-php@v1.0.0
