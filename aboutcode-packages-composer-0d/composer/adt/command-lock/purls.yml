@@ -1,0 +1,4 @@
+- pkg:composer/adt/command-lock@v1.2
+- pkg:composer/adt/command-lock@v1.1
+- pkg:composer/adt/command-lock@v1.0.1
+- pkg:composer/adt/command-lock@v1.0
