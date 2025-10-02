@@ -1,0 +1,15 @@
+- pkg:composer/aliirfaan/laravel-simple-jwt@9.0.1
+- pkg:composer/aliirfaan/laravel-simple-jwt@9.0.0
+- pkg:composer/aliirfaan/laravel-simple-jwt@8.1.1
+- pkg:composer/aliirfaan/laravel-simple-jwt@8.1.0
+- pkg:composer/aliirfaan/laravel-simple-jwt@8.0.2
+- pkg:composer/aliirfaan/laravel-simple-jwt@8.0.1
+- pkg:composer/aliirfaan/laravel-simple-jwt@8.0.0
+- pkg:composer/aliirfaan/laravel-simple-jwt@7.0.0
+- pkg:composer/aliirfaan/laravel-simple-jwt@6.0.1
+- pkg:composer/aliirfaan/laravel-simple-jwt@6.0.0
+- pkg:composer/aliirfaan/laravel-simple-jwt@5.0.0
+- pkg:composer/aliirfaan/laravel-simple-jwt@4.0.0
+- pkg:composer/aliirfaan/laravel-simple-jwt@3.0.0
+- pkg:composer/aliirfaan/laravel-simple-jwt@2.0.0
+- pkg:composer/aliirfaan/laravel-simple-jwt@1.0.0
