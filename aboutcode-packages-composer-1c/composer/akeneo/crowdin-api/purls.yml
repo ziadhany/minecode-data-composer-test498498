@@ -1,0 +1,16 @@
+- pkg:composer/akeneo/crowdin-api@v2.0.4
+- pkg:composer/akeneo/crowdin-api@v2.0.3
+- pkg:composer/akeneo/crowdin-api@v2.0.2
+- pkg:composer/akeneo/crowdin-api@v2.0.1
+- pkg:composer/akeneo/crowdin-api@2.0.0
+- pkg:composer/akeneo/crowdin-api@v1.0.0
+- pkg:composer/akeneo/crowdin-api@1.0.0-alpha7
+- pkg:composer/akeneo/crowdin-api@1.0.0-alpha6
+- pkg:composer/akeneo/crowdin-api@1.0.0-alpha5
+- pkg:composer/akeneo/crowdin-api@1.0.0-alpha4
+- pkg:composer/akeneo/crowdin-api@1.0.0-alpha3
+- pkg:composer/akeneo/crowdin-api@1.0.0-alpha2
+- pkg:composer/akeneo/crowdin-api@1.0.0-alpha1
+- pkg:composer/akeneo/crowdin-api@0.3.0
+- pkg:composer/akeneo/crowdin-api@0.2.0
+- pkg:composer/akeneo/crowdin-api@0.1.0

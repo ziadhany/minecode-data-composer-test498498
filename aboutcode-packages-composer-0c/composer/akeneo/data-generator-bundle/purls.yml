@@ -1,0 +1,4 @@
+- pkg:composer/akeneo/data-generator-bundle@v1.5.0
+- pkg:composer/akeneo/data-generator-bundle@v1.4.0
+- pkg:composer/akeneo/data-generator-bundle@0.2
+- pkg:composer/akeneo/data-generator-bundle@0.1
