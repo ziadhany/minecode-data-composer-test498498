@@ -1,0 +1,4 @@
+- pkg:composer/abuisine/php-resque-scheduler@1.2.1
+- pkg:composer/abuisine/php-resque-scheduler@1.2.0
+- pkg:composer/abuisine/php-resque-scheduler@1.1.1
+- pkg:composer/abuisine/php-resque-scheduler@1.1

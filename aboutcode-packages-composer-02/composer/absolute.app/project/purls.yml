@@ -1,0 +1,4 @@
+- pkg:composer/absolute.app/project@v1.3.1-stable
+- pkg:composer/absolute.app/project@v1.2.0-stable
+- pkg:composer/absolute.app/project@v1.1.0-stable
+- pkg:composer/absolute.app/project@v1.0.0-stable
