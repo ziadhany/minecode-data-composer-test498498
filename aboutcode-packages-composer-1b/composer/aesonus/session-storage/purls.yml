@@ -1,0 +1,5 @@
+- pkg:composer/aesonus/session-storage@v3.0
+- pkg:composer/aesonus/session-storage@v2.0
+- pkg:composer/aesonus/session-storage@v1.0.2
+- pkg:composer/aesonus/session-storage@v1.0.1
+- pkg:composer/aesonus/session-storage@v1.0.0
