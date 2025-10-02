@@ -1,0 +1,14 @@
+- pkg:composer/acromedia/mysqldump-php@v2.5
+- pkg:composer/acromedia/mysqldump-php@v2.4
+- pkg:composer/acromedia/mysqldump-php@v2.3.1
+- pkg:composer/acromedia/mysqldump-php@v2.3
+- pkg:composer/acromedia/mysqldump-php@v2.2
+- pkg:composer/acromedia/mysqldump-php@v2.1
+- pkg:composer/acromedia/mysqldump-php@v2.0
+- pkg:composer/acromedia/mysqldump-php@v1.6
+- pkg:composer/acromedia/mysqldump-php@v1.5
+- pkg:composer/acromedia/mysqldump-php@v1.4.1
+- pkg:composer/acromedia/mysqldump-php@v1.4
+- pkg:composer/acromedia/mysqldump-php@v1.3.1
+- pkg:composer/acromedia/mysqldump-php@v1.3
+- pkg:composer/acromedia/mysqldump-php@1.0.0

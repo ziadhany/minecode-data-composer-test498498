@@ -1,0 +1,15 @@
+- pkg:composer/acquia/drupal-spec-tool@v6.2.0
+- pkg:composer/acquia/drupal-spec-tool@v6.1.0
+- pkg:composer/acquia/drupal-spec-tool@v6.0.0
+- pkg:composer/acquia/drupal-spec-tool@v6.0.0-alpha1
+- pkg:composer/acquia/drupal-spec-tool@v5.0.0
+- pkg:composer/acquia/drupal-spec-tool@4.1.1
+- pkg:composer/acquia/drupal-spec-tool@4.1.0
+- pkg:composer/acquia/drupal-spec-tool@4.0.2
+- pkg:composer/acquia/drupal-spec-tool@4.0.1
+- pkg:composer/acquia/drupal-spec-tool@4.0.0
+- pkg:composer/acquia/drupal-spec-tool@v3.0.1
+- pkg:composer/acquia/drupal-spec-tool@v3.0.0
+- pkg:composer/acquia/drupal-spec-tool@v2.0.0
+- pkg:composer/acquia/drupal-spec-tool@v1.1
+- pkg:composer/acquia/drupal-spec-tool@v1.0

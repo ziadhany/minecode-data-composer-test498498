@@ -1,0 +1,14 @@
+- pkg:composer/acquia/drupal-environment-detector@1.7.0
+- pkg:composer/acquia/drupal-environment-detector@1.6.0
+- pkg:composer/acquia/drupal-environment-detector@1.5.3
+- pkg:composer/acquia/drupal-environment-detector@1.5.2
+- pkg:composer/acquia/drupal-environment-detector@1.5.1
+- pkg:composer/acquia/drupal-environment-detector@1.5.0
+- pkg:composer/acquia/drupal-environment-detector@1.4.1
+- pkg:composer/acquia/drupal-environment-detector@v1.4.0
+- pkg:composer/acquia/drupal-environment-detector@v1.3.0
+- pkg:composer/acquia/drupal-environment-detector@v1.2.1
+- pkg:composer/acquia/drupal-environment-detector@v1.2.0
+- pkg:composer/acquia/drupal-environment-detector@v1.1.1
+- pkg:composer/acquia/drupal-environment-detector@v1.1.0
+- pkg:composer/acquia/drupal-environment-detector@v1.0.0

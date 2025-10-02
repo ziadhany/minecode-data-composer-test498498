@@ -1,0 +1,5 @@
+- pkg:composer/acquia/blt-travis@v1.1.0
+- pkg:composer/acquia/blt-travis@v1.0.3
+- pkg:composer/acquia/blt-travis@v1.0.2
+- pkg:composer/acquia/blt-travis@v1.0.1
+- pkg:composer/acquia/blt-travis@v1.0.0

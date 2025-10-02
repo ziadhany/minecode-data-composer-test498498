@@ -1,0 +1,9 @@
+- pkg:composer/acquia/acquia-sdk-php-rest@0.10.7
+- pkg:composer/acquia/acquia-sdk-php-rest@0.10.6
+- pkg:composer/acquia/acquia-sdk-php-rest@0.10.5
+- pkg:composer/acquia/acquia-sdk-php-rest@0.10.4
+- pkg:composer/acquia/acquia-sdk-php-rest@0.10.3
+- pkg:composer/acquia/acquia-sdk-php-rest@0.10.2
+- pkg:composer/acquia/acquia-sdk-php-rest@0.10.1
+- pkg:composer/acquia/acquia-sdk-php-rest@0.10.0
+- pkg:composer/acquia/acquia-sdk-php-rest@0.9.0
