@@ -1,0 +1,4 @@
+- pkg:composer/amirhb/laravel-mongodb-log@1.2
+- pkg:composer/amirhb/laravel-mongodb-log@1.1
+- pkg:composer/amirhb/laravel-mongodb-log@1.0
+- pkg:composer/amirhb/laravel-mongodb-log@v0.0.1-alpha
