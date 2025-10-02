@@ -1,0 +1,4 @@
+- pkg:composer/amber-core/rbac@v0.13
+- pkg:composer/amber-core/rbac@v0.12
+- pkg:composer/amber-core/rbac@v0.11
+- pkg:composer/amber-core/rbac@v0.1
