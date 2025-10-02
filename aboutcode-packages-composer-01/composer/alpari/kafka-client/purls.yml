@@ -1,0 +1,4 @@
+- pkg:composer/alpari/kafka-client@0.10.2
+- pkg:composer/alpari/kafka-client@0.10.1
+- pkg:composer/alpari/kafka-client@0.10.0
+- pkg:composer/alpari/kafka-client@0.9.0
