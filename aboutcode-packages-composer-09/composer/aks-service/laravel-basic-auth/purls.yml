@@ -1,0 +1,4 @@
+- pkg:composer/aks-service/laravel-basic-auth@v1.1.0
+- pkg:composer/aks-service/laravel-basic-auth@v1.0.2
+- pkg:composer/aks-service/laravel-basic-auth@v1.0.1
+- pkg:composer/aks-service/laravel-basic-auth@v1.0.0
