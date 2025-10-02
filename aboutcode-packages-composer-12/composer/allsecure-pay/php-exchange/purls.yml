@@ -1,0 +1,12 @@
+- pkg:composer/allsecure-pay/php-exchange@v3.9.0
+- pkg:composer/allsecure-pay/php-exchange@v3.8.0
+- pkg:composer/allsecure-pay/php-exchange@v3.1.1
+- pkg:composer/allsecure-pay/php-exchange@v3.1.0
+- pkg:composer/allsecure-pay/php-exchange@v3.0.6
+- pkg:composer/allsecure-pay/php-exchange@2.5.4
+- pkg:composer/allsecure-pay/php-exchange@2.5.3
+- pkg:composer/allsecure-pay/php-exchange@2.5.2
+- pkg:composer/allsecure-pay/php-exchange@2.5.0
+- pkg:composer/allsecure-pay/php-exchange@2.4.4
+- pkg:composer/allsecure-pay/php-exchange@v1.1
+- pkg:composer/allsecure-pay/php-exchange@v1.0
