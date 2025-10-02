@@ -1,0 +1,13 @@
+- pkg:composer/adt/single-recipient-mailer@v5.1
+- pkg:composer/adt/single-recipient-mailer@v5.0.1
+- pkg:composer/adt/single-recipient-mailer@v5.0
+- pkg:composer/adt/single-recipient-mailer@v4.1
+- pkg:composer/adt/single-recipient-mailer@v4.0.1
+- pkg:composer/adt/single-recipient-mailer@v4.0
+- pkg:composer/adt/single-recipient-mailer@v3.2
+- pkg:composer/adt/single-recipient-mailer@v3.1
+- pkg:composer/adt/single-recipient-mailer@v3.0
+- pkg:composer/adt/single-recipient-mailer@v2.0
+- pkg:composer/adt/single-recipient-mailer@v1.0.2
+- pkg:composer/adt/single-recipient-mailer@1.0.1
+- pkg:composer/adt/single-recipient-mailer@v1.0
