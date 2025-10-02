@@ -1,0 +1,4 @@
+- pkg:composer/altmetric/mongo-session-handler@v2.1.0
+- pkg:composer/altmetric/mongo-session-handler@v2.0.0
+- pkg:composer/altmetric/mongo-session-handler@v1.0.0
+- pkg:composer/altmetric/mongo-session-handler@v0.1.0
