@@ -1,0 +1,4 @@
+- pkg:composer/alahaxe/healthcheck-redis@v2.0.1
+- pkg:composer/alahaxe/healthcheck-redis@v2.0.0
+- pkg:composer/alahaxe/healthcheck-redis@v1.0.1
+- pkg:composer/alahaxe/healthcheck-redis@v1.0.0
