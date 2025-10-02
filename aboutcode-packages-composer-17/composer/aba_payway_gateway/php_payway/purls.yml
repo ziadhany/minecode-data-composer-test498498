@@ -1,0 +1,3 @@
+- pkg:composer/aba_payway_gateway/php_payway@1.0.2
+- pkg:composer/aba_payway_gateway/php_payway@1.0.1
+- pkg:composer/aba_payway_gateway/php_payway@1.0.0

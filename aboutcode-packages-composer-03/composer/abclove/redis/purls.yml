@@ -1,0 +1,4 @@
+- pkg:composer/abclove/redis@v2.3.0
+- pkg:composer/abclove/redis@v2.2.0
+- pkg:composer/abclove/redis@v2.1.0
+- pkg:composer/abclove/redis@2.0.0
