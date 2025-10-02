@@ -1,0 +1,4 @@
+- pkg:composer/ajardin/docker-symfony@v0.4
+- pkg:composer/ajardin/docker-symfony@v0.3
+- pkg:composer/ajardin/docker-symfony@v0.2
+- pkg:composer/ajardin/docker-symfony@v0.1
