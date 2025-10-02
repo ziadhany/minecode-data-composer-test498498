@@ -1,0 +1,9 @@
+- pkg:composer/alcaeus/liquibase@3.5.3
+- pkg:composer/alcaeus/liquibase@3.5.0
+- pkg:composer/alcaeus/liquibase@3.4.2
+- pkg:composer/alcaeus/liquibase@3.3.5
+- pkg:composer/alcaeus/liquibase@3.3.3
+- pkg:composer/alcaeus/liquibase@3.3.2
+- pkg:composer/alcaeus/liquibase@3.0.2
+- pkg:composer/alcaeus/liquibase@2.0.5
+- pkg:composer/alcaeus/liquibase@1.0.0
