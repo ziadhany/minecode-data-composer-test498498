@@ -1,0 +1,5 @@
+- pkg:composer/alexanderzon/laravel-hashids@3.0.1
+- pkg:composer/alexanderzon/laravel-hashids@3.0.0
+- pkg:composer/alexanderzon/laravel-hashids@2.0.0
+- pkg:composer/alexanderzon/laravel-hashids@1.0.0
+- pkg:composer/alexanderzon/laravel-hashids@0.3.1
