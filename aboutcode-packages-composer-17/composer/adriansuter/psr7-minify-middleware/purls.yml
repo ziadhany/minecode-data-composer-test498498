@@ -1,0 +1,4 @@
+- pkg:composer/adriansuter/psr7-minify-middleware@v0.3
+- pkg:composer/adriansuter/psr7-minify-middleware@v0.2
+- pkg:composer/adriansuter/psr7-minify-middleware@v0.1
+- pkg:composer/adriansuter/psr7-minify-middleware@v0.1-alpha
